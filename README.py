@@ -38,3 +38,6 @@ class CuentaJoven:
             print("el saldo de su cuenta se cuentra en ${}".format(self.monto))
         else: # recuerda: debe regresar a ingresar nuevamente la fecha de nacimiento
             print("Transferencia rechazada")
+
+print(class(CuentaJoven))
+
